@@ -1,0 +1,2 @@
+html {background-color:black;}
+window.onclick = function(){alert("Hi!")};
